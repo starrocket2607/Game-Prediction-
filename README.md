@@ -1,26 +1,31 @@
-# Game-Prediction-
+# Game-Prediction
 Game Prediction using AI for League of Legends. 
 
-Goal - 
+**Goal **
+
 This model can be used to predict who wins the game League of Legends. 
 
-Dataset - 
+**Dataset ** 
+
 The dataset was obtained from Kaggle - high_diamond_rank10min.csv
 We modified the dataset to modified.csv
 
-Models used to predict - 
+**Models used to predict - **
+
 Random Forest
 Decision Trees
 SVM
 CNN
 
-Result - 
+**Result -**
+
 The model that predicted the highest accuracy was - 
 Accuracy - 
 
 View the report for a detailed explaination of the project.
 
-Team Members - 
+**Team Members - **
+
 Anshu 
 Seetoh
 Damien
